@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881209474433",
+    "project_id": "assignment-4d914",
+    "storage_bucket": "assignment-4d914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881209474433:android:abeb6a7d649e05a6aabc80",
+        "android_client_info": {
+          "package_name": "com.shambhavi.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881209474433-95genmhe0crlqolg9v1b8uf3ggg7bgqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2v0jiGpeTb1D4ZN0pXn4U_rNvWchDCjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881209474433-95genmhe0crlqolg9v1b8uf3ggg7bgqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
